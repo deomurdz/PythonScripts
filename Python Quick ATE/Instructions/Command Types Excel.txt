@@ -1,0 +1,27 @@
+07/19/2019
+
+General Commands:
+xxx Open	
+xxx Command	{xxx}
+xxx Query	{xxx}
+xxx Close
+Wait		{#seconds}
+Pause
+Comment		{xxx}
+Loop		{#loops}
+
+
+Structure:
+DMM1 Open
+DMM1 Command
+DMM1 Query
+DMM1 Close
+
+Instrument Tags:
+DMM1
+DMM2
+PSL	GEN LAN
+PSR	GEN RS232
+PM	Power Meter
+Load
+Scope
